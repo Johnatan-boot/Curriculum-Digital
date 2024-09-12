@@ -1,0 +1,9 @@
+ .toolbar  {
+  color: #fff;
+  background-color: rgb(8,8,8);
+  background: linear-gradient(90deg, rgba(8,8,8,1) 26%, rgba(19,19,19,1) 40%, rgba(48,44,44,1) 70%);
+  }
+
+.example-spacer {
+  flex: 1 1 auto;
+}

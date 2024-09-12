@@ -1,0 +1,29 @@
+mat-card {
+  height: 280px;
+  font-weight: 500;
+  border-radius: 15px;
+  position: relative;
+  bottom: 430px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+#card-experience {
+  margin-top: 10px;
+
+  background-color: #fff;
+}
+div .container-right {
+  position: relative;
+  left: 10%;
+  bottom: 50%;
+}
+
+h2 {
+  font-size: 1em;
+}
+
+ol {
+  font-size: 0.9em;
+}
