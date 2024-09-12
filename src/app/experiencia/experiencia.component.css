@@ -3,7 +3,8 @@ mat-card {
   font-weight: 500;
   border-radius: 15px;
   position: relative;
-  bottom: 430px;
+  position: relative;
+  top: 220px;
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
